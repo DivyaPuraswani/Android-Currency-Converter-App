@@ -7,7 +7,7 @@ Time spent: *2* hours spent in total
 
 The following *required* functionality is complete:
 
-* [ ] User can enter a amount in USD, choose a country for which USD can be converted into Candian Dollar, India Rupee and Euro.
+* [ ] Users can enter an amount in USD, choose a country for which USD can be converted into Candian Dollar, India Rupee and Euro.
 
 ## Video Walkthrough 
 
